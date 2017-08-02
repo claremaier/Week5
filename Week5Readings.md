@@ -99,6 +99,23 @@ Making an Effective Visualization
 
 #Topic Modeling with Newspaper Archives
 **Good summary of Topic Models to refer to**
+-can create word probability distribution or topic probability
+-select and gather data - prepare data - use models to find patterns - close reading to understand patterns
+*Questions* **methodology**
+-what data was used as input (where from)?
+-how was the data prepared for use?
+-which software was used?
+-what parameters were used for modelling?
+-how do these aspects affect interpretation of the models and their application?
+
+Mallet uses LDA - Latent Dirichlet Allocation
 
 
+#Edward Tufte
+-born March 14, 1942 - American statistician
+-inforamtion design - pioneer in field of data visualization
+-in March 2010, appointed to American Recovery and Reinvestment Acts's Recovery Independent Advisory Panel by Pres. Obama
+*chartjunk* - useless, non-informative or information-obscuring elements of quantitative information displays
+-also lie factor, data-ink ratio, data density, small multiple, sparklines
+-criticizes way Microsoft PowerPoint typically used
 
