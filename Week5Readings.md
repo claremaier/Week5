@@ -119,3 +119,19 @@ Mallet uses LDA - Latent Dirichlet Allocation
 -also lie factor, data-ink ratio, data density, small multiple, sparklines
 -criticizes way Microsoft PowerPoint typically used
 
+#Revealing Sentiment and Plot Arcs with the Syuzhet Package
+-extract sentiment and plot information from prose
+-organization of the narrative vs. raw elements of story
+-manner in which the author presents the events
+-how to compare, mathematically and computationally, the shape of one story to another
+*lots of reference to Kurt Vonnegut*
+
+#Anglophile in Academia: Annie Swafford's Blog: Problems with the Syuzhet Package
+-split novel into sentences
+-sentiment analysis to assign positive or negative number to each sentence
+-graph it to show emotional rises and falls
+-but words are graphed in isolation and "not" therefore has no effect
+-contain contemporary words - *olde* words won't be assigned a score
+-no nuance - (-1, 0, 1), so "happy" and "very happy" are the same
+**need to really understand how the technology works, not just blindly assume that it does**
+
