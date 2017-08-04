@@ -33,7 +33,32 @@ interesting data that makes no sense to others
 
 
 #Podcast: Micki Kaufman on Quantifying Kissinger
+-worried about the stuff that could be redacted/shared that politicians don't want shared
+-17000 telephone conversations to analyse
+-word frequency, correllation, topic modelling, etc
+-sentiment analysis
+-*dangerous that the more used, the more lose critical lense*
+-can fill in blanks when we shouldn't
+-also tend to focus on outliers - not always helpful
+-download ettiquete - don't download too much at the same time
+-public domain - "released" by wikileaks (percieved secrecy)
+-use word clouds - removes context, narrative, just a table *can skew concluions
+**be careful of this in final report - doesn't mean causation**
+-useful to find out who talked to who, what people were called; frequency and words surrounding it (look into possible context)
+-**eye candy - what's useful**
+-can quantify - "six times more likely"
+-Gephi - uses the force-direction thing we did in Gephi
+-when does laughter take place? - tied to intimate/personal conversations and think about which relationships
 
+-sentiment analysis - quantify emotional content of words - positive or negative
+-start with patters - which then produce questions to begin research
+
+*goes through each technique and the uses*
+**keep notebook outside computer to narrate process - to be critical of it - good for scholarship and to job memory**
+-inferance of absence - comparisons and context for confirmation
+**make sure the data and charts are accessible and understandable to the audience**
+-density distribution - why did it change? (cultural, timeperiod, personal changes, legal, economic, etc)
+**didn't listen to the question part**
 
 #Force-Directed Diagram: Memcons and Telcons "Textplot"
 
