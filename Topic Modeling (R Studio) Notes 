@@ -1,0 +1,28 @@
+#Topic modeling notes, command lines, observations
+
+**Using RStudio in DH Box**
+
+*not really clear on what the commands we are entering following the tutorial are, but they seem to be working well.*
+
+What I really like about it is the ability to count frequency/topics by year
+**Useful in categorizing papers I downloaded by year** - did something important happen that year? _ use closer, other models to delve into it more deeply**
+
+#Important Points
+-Always ask yourself - Is this interesting trend/thing an artefact of the data, or a result of our data collection methods
+-Think critically about the analysis -- devote final paper notes to this
+
+#Stuck
+I have gotten to this point
+"mallet.top.words(topic.model, topic.words[7,])"
+Although I don't really understand the technicalities of how I got here and what is going wrong.
+RStudio returns this error: 
+Error in .jcall("RJavaTools", "Ljava/lang/Object;", "invokeMethod", cl,  : 
+  java.lang.NullPointerException
+
+I checked Slack for any ideas and posted a note asking for help. Prof. responded with what I feared: the file was empty.
+Consulted my brother who pointed out that I accidently skipped a step because I misunderstood the instructions to read "if you already did the above, ignore this step" and that 
+by doing this, I deleted the contents of the file. We went back and redid that step, and were able to continue with the tutorial. 
+
+The way it manipulated the data reminded me a bit of gephi. Not sure what I will do with it, but looking forward to trying it out tomorrow.
+
+I also pulled the github repo for this week because I created (with help) a new one since I'm now back on DH Box. Then I synced it again and pushed it back.
