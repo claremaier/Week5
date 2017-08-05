@@ -1,0 +1,27 @@
+#Notes made while trying to figure out Gephi
+
+**In order to run the Gephi program, have to run the command ./bin/gephi --jdkhome $JAVA_HOME**
+
+*at this point I opened up the file and followed the instructions to create the label* 
+-I am having trouble running the "force-directed layout"
+-It made more sense after reading the next step - no big changes were necessary for it to appear
+-**while working on the data, it looked messy and I was unsure what it
+was really showing me because it didn't include the names in the 
+"working part" - so it took me extra time to make sure that I was doing it right
+**The instructions are pretty easy to follow using this one layout - Force Atlas 2**
+
+#Here is the link to the tutorial
+[workbook Gephi link](http://workbook.craftingdigitalhistory.ca/supporting%20materials/gephi.txt/)
+
+**One thing I did not like about Gephi is that it appeared rather utilitarian and I had trouble intuitively navigating it - not user friendly**
+-this was especially true for the *difficulty* I had in figuring out
+how to follow the instructions on filtering out the unconnected points - I kept deleting the wrong information while following the instructions until I changed the "O" to "1" - I found that the program-specific language wasn't really clear or easy for beginners to use
+
+However, I did really like the way it clarified relationships between the senders by how "popular" they are
+-I can see how the readings we did this week cautioned against miss-using the technology and not fully documenting/ explaining the rationale behind using it
+-it also is starting to make sense about some of the issues we talked about regarding the "big data" "little data" debate. It's really tempting to use this information and make many conclusions about what it means, risking taking it out of context, miss-representing the importance of the finds and not thinking about how the data was collected (which we did previously), how we cleaned it up and what might have been lost/altered/gained
+**MAKE SURE TO HAVE THESE CONVERSATIONS IN A REALLY OPEN - ALMOST ANTHROPOLOGICAL WAY IN THE FINAL PROJECT - Ask WHY did I chose this, WHAT did I hope to achieve, HOW did I change it, etc**
+
+That being said, I don't know if I want to use this for the Equity final project *look through the info - download and clean-up tomorrow*
+**check with prof- probably want to do three different things with it after I download, clean, etc**
+**(*remember to document and explicitly save and link everything*)**
