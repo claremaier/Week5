@@ -27,10 +27,10 @@ interesting data that makes no sense to others
 *instead of chosing a narrow focus and exploring it - this digital method allows many topics to be layered on top of each other and interact to form a more nuanced picture*
 
 #Corpus Linguistics for Historians
-
+**notes have been scanned into computer**
 
 #Visualizing Gender in History of Woman Suffrage
-
+**notes have been scanned into computer**
 
 #Podcast: Micki Kaufman on Quantifying Kissinger
 -worried about the stuff that could be redacted/shared that politicians don't want shared
@@ -61,7 +61,7 @@ interesting data that makes no sense to others
 **didn't listen to the question part**
 
 #Force-Directed Diagram: Memcons and Telcons "Textplot"
-
+**notes have been scanned into computer**
 
 #Network Analysis - Culturomics 2: The Search for More Money
 -be aware of the methods you use and what they mean - drawbacks
