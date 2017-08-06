@@ -1,0 +1,65 @@
+What I was trying to do
+I chose to work through Gephi and RStudio for the two exercises this week. 
+As I understand it, Gephi allows you to visually see and manipulate data and RStudio is more mathematical 
+and command-line based, allowing for data to be pulled by topics (which could be then fed into Gephi after they are cleaned up)
+
+What I did
+Gephi
+I had trouble running the "force-directed layout" until I read through the rest of the instructions and hen it made sense.
+*still having problems with my tendacy to not read all the text before trying to do something*
+**while working on the data, it looked messy and I was unsure what it
+was really showing me because it didn't include the names in the 
+"working part" - so it took me extra time to make sure that I was doing it right
+**The instructions are pretty easy to follow using this one layout - Force Atlas 2**
+I did have some initial trouble understanding what Force Atlas was supposed to do and how it worked - again, simple issues 
+that I sorted out easily by referring to the Slack channel and running ideas past my brother
+
+RStudio
+#Stuck
+I have gotten to this point
+"mallet.top.words(topic.model, topic.words[7,])"
+Although I don't really understand the technicalities of how I got here and what is going wrong.
+RStudio returns this error: 
+Error in .jcall("RJavaTools", "Ljava/lang/Object;", "invokeMethod", cl,  : 
+  java.lang.NullPointerException
+
+I checked Slack for any ideas and posted a note asking for help. Prof. responded with what I feared: the file was empty.
+Consulted my brother who pointed out that I accidently skipped a step because I misunderstood the instructions to read "if you already did the above, ignore this step" and that 
+by doing this, I deleted the contents of the file. We went back and redid that step, and were able to continue with the tutorial. 
+
+The way it manipulated the data reminded me a bit of gephi. Not sure what I will do with it, but looking forward to trying it out tomorrow.
+
+I also pulled the github repo for this week because I created (with help) a new one since I'm now back on DH Box. Then I synced it again and pushed it back.
+
+Things that were hard
+Gephi
+**One thing I did not like about Gephi is that it appeared rather utilitarian and I had trouble intuitively navigating it - not user friendly**
+-this was especially true for the *difficulty* I had in figuring out
+how to follow the instructions on filtering out the unconnected points - I kept deleting the wrong information while following the instructions until I changed the "O" to "1" - I found that the program-specific language wasn't really clear or easy for beginners to use
+
+RStudio
+Probably my biggest challenge is still not completely understanding what I was doing and why it was either 
+working or not working (this often means that even for simple mistakes I need help pointing out 
+what I am working on so I can see why it is right or wrong)
+I found that for this RStudio especially, I did not understand the instructions. However, I have also found that as I begin to work
+on my final project using the Equity files, I am more comfortable changing parts of the tutorials and
+modifying them to use the files/commands/ etc I want, so I am hoping that I will have success with replicating 
+this tutorial.
+I do know that my brain doesn't specialize in this type of work and learning and that I probably will
+bring forward some ideas and methods for future use, rather than radically switching the way I do research or use the computer. 
+There are things I am starting to do without the tutorials (like the command line stuff and markup), but
+my grasp on the rest is still mostly tied to the tutorials.
+
+
+Thoughts on where to go next
+I am hoping that after doing some 
+OCR cleanup on my Equity files, I can use RStudio to pull out important themes and words to explore further
+and I can use Gephi to visually graph it. My ideas and aims will probably change over the coming week as I work on it.
+
+Final Project
+I began working on the final project this week. I used wikipedia to decide what timeframe I wanted to focus on, based on 
+topics that might have been in the news during that time. I chose 1897-1902 (before and during the Boer War and it's
+potential impact on English/French Canadian relations due to conscription). I downladed the files, using a mixture of the
+wget command from the workbook and the command suggested in the tutorial the workbook linked to.
+I was proud of the way I did not give up, but added and switched things around until I had a command that did what I wanted it to.
+wget -r --no-parent -w 2 --limit-rate=20k http://collections.banq.qc.ca:8008/jrn03/equity/src/1897/ -A .txt
